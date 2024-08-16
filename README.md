@@ -1,6 +1,6 @@
 ### Welcome to Ginevra Beltrame's GitHub!
 
-- 📚 MSc student at UniPD specializing in Computational Phyisics of the Complex Systems, Data Analysis and Machine Learning
+- 📚 MSc student at UniPD specializing in Computational Physics of the Complex Systems, Data Analysis and Machine Learning
 - 🔭 Primarily interested in Neuroscience, Large Language Models and Quantum Information Theory
 - 🌱 Currently learning about Complex Networks Theory, Game Theory, Quantum Information Theory, Deep Learning, Statistical Mechanics and Bayesian Inference
 - 🎓 BSc Physics graduate with final thesis "Attractors of recurrent neural networks" ([https://hdl.handle.net/20.500.12608/60983](https://hdl.handle.net/20.500.12608/60983))
